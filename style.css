@@ -121,5 +121,13 @@ a {
   margin-left: 50%;
   border-radius: 20px;
 }
-
-
+.link:hover .span {
+  width: 204px;
+  transition: all 0.2s ease;
+lid  }
+.link:hover a {
+  color: #fff;
+  position: absolute;
+  z-index: 9999;
+  border: 2px so#2e3c49;
+}
